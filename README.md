@@ -1,6 +1,6 @@
 ## Hi, I'm Hardik
 
-I'm an AI/ML engineer at Genpact in Bengaluru. I build AI systems that know when to ask a person: LLM pipelines, RAG, evaluation and guardrails on AWS Bedrock, with a human in the loop wherever the model isn't sure.
+I'm an AI/ML engineer at Genpact. I build AI systems that know when to ask a person: LLM pipelines, RAG, evaluation and guardrails on AWS Bedrock, with a human in the loop wherever the model isn't sure.
 
 ### Featured project: [ComplaintOps](https://github.com/hardikbahri/complaintops)
 
