@@ -20,7 +20,7 @@ Complaint triage trained on 335K public CFPB consumer complaints.
 
 [Live demo](https://huggingface.co/spaces/hb-007/complaintops) | [Code](https://github.com/hardikbahri/complaintops) | [Model](https://huggingface.co/hb-007/complaintops-distilbert-lora-onnx)
 
-I wrote up why the LLM doesn't make the calls: [My LLM was confident 99% of the time. It was right 39% of the time.](https://hardikbahri.github.io/writing/llm-confidence/)
+I wrote up why the LLM doesn't make the calls: [My LLM was confident 99% of the time. It was right 39% of the time.](https://medium.com/@hardik.bahri/my-llm-was-confident-99-of-the-time-it-was-right-39-of-the-time-84c6fc2e34f3)
 
 ### Skills
 
