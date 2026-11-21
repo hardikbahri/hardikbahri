@@ -18,7 +18,9 @@ Complaint triage trained on 335K public CFPB consumer complaints.
 - Everything below 0.8 confidence goes to a person. A LangGraph agent with MCP tools finds similar past complaints in pgvector and writes a note for the reviewer. The LLM never sets the label.
 - An evaluation gate blocks weak models before they ship, drift monitoring flags when new complaints stop looking like the training data, and every change runs through CI.
 
-[Live demo](https://huggingface.co/spaces/hb-007/complaintops) | [Code](https://github.com/hardikbahri/complaintops)
+[Live demo](https://huggingface.co/spaces/hb-007/complaintops) | [Code](https://github.com/hardikbahri/complaintops) | [Model](https://huggingface.co/hb-007/complaintops-distilbert-lora-onnx)
+
+I wrote up why the LLM doesn't make the calls: [My LLM was confident 99% of the time. It was right 39% of the time.](https://hardikbahri.github.io/writing/llm-confidence/)
 
 ### Skills
 
